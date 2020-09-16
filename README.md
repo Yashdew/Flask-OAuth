@@ -1,2 +1,3 @@
 # Flask-OAuth
-Just an Experiment using Flask, OAuth and MongoDB 
+Just an Experiment using Flask, OAuth, MongoDB & Firebase.
+
